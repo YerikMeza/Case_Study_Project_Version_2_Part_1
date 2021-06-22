@@ -1,0 +1,57 @@
+body {
+    font-family: 'Odibee Sans', cursive;
+    font-size: 25px;
+    background-color: lightgreen;
+    margin-bottom: 120px;
+}
+
+b {
+    color: forestgreen;
+}
+
+h4 {
+    font-size: 25px;
+}
+
+img {
+    width: 400px;
+    height: 450px;
+}
+
+#Case_Study_img {
+    width: 250px;
+    height: 250px;
+}
+
+#heading_vs {
+    font-size: 30px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+    margin-right: 900px;
+}
+
+.header_div {
+    background: steelblue;
+    color: skyblue;
+}
+
+.header_div img {
+    width: 150px;
+}
+
+.div_result {
+    padding: 10px;
+     width:80%;
+     background: green;
+     border-radius: 15px;
+}
